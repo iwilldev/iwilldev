@@ -11,3 +11,4 @@ Anos atrás, me aventurei como freela de design (criação de marca e identidade
 Voltei para o universo da programação em meio a pandemia, depois de 10 anos de uma graduação (Sistemas de Informação) trancada no último período. Atuante em outro segmento (Energia Segura), entendia que não fazia sentido finalizar o curso e decidi continuar focado no meu trabalho. Uma década depois, mais maduro e com um propósito redirecionado, ressignifiquei minha paixão pelos códigos (e pelas soluções que posso desenvolver com eles) e descobri nisso a minha real vocação.
 
 Sabe o cara que você busca pra pensar o não óbvio em seus projetos e chegar a um resultado de encher os olhos? Esse cara sou eu! (São tantas emoções, bicho!)
+ 
