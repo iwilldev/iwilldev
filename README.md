@@ -1,14 +1,15 @@
-Flamenguista e carioca, que divide a vida entre a Zona Oeste do Rio de Janeiro e a Zona Leste de São Paulo.
+Desenvolvedor Web apaixonado por criar experiências digitais que unem tecnologia, design e propósito. 🎯
 
-Graduando em Engenharia de Software e Desenvolvedor Front-End que dá pitaco em Design, Produto e têm se aprofundado em stacks de Back-End e assuntos mais densos.
+Com experiência em Front-End moderno (React, Vue, TypeScript) e um carinho especial por Design Systems, ajudo produtos a se tornarem mais bonitos, eficientes e humanos. ✨
 
-Pai do Pedro (o ariano mais porreta do mundo) que tem sido meu combustível pra viver, desde que nasceu. Marido da Laurinha, meu amor, alma gêmea e minha melhor amiga. E padrasto do Henry, o jovenzinho mais inteligente que conheço.
+Nos bastidores, venho expandindo minha atuação para o universo do Back-End, construindo uma visão mais completa do desenvolvimento de produtos. 🛠️
 
-Canhoto nascido na Primavera de 1988, que desde cedo fez jus a fama dos 'left-handed', com ótima noção espacial, criatividade e tendência as atividades artísticas. Os astros, na hora registrada em certidão, garantiram intensidade, determinação, inconformismo, espontaneidade, livre-pensamento, grande imaginação e sensibilidade. Mas esse papo a gente deixa pra quem curte.
+Além dos códigos e interfaces, sou pai, flamenguista e entusiasta da vida criativa. 🎨
 
-Anos atrás, me aventurei como freela de design (criação de marca e identidade visual, principalmente). Trabalhei com muitos clientes em vários projetos bacanas, incluindo o primeiro mapa do transporte metropolitano do Rio para o app da Moovit, trampo que rendeu uma matéria no Jornal O Dia, na época.
+Canhoto da primavera de 88, com todos os clichês possíveis sobre ser um criativo e artista desde a infância. O mapa do céu na minha data de nascimento me garantou intensidade, determinação, não conformidade, espontaneidade, pensamento livre, uma grande imaginação e sensibilidade. Mas isso é uma conversa para o povo místico. 😉
 
-Voltei para o universo da programação em meio a pandemia, depois de 10 anos de uma graduação (Sistemas de Informação) trancada no último período. Atuante em outro segmento (Energia Segura), entendia que não fazia sentido finalizar o curso e decidi continuar focado no meu trabalho. Uma década depois, mais maduro e com um propósito redirecionado, ressignifiquei minha paixão pelos códigos (e pelas soluções que posso desenvolver com eles) e descobri nisso a minha real vocação.
+Anos atrás, trabalhei como designer freelancer, criando marcas, identidades visuais e artes digitais para muitos clientes. Um dos destaques foi o primeiro mapa de transporte público do Rio no aplicativo Moovit, um trabalho que foi até mesmo matéria no "Jornal O Dia", um dos maiores jornais do Rio de Janeiro. 🗺️
 
-Sabe o cara que você busca pra pensar o não óbvio em seus projetos e chegar a um resultado de encher os olhos? Esse cara sou eu! (São tantas emoções, bicho!)
- 
+Após uma década no universo da energia segura, com UPSes, grupos geradores e outros sistemas críticos, redescobri minha paixão pela programação. O retorno à tecnologia aconteceu depois de mais de uma década de uma graduação em TI trancada. A partir daí encontrei no desenvolvimento de software o verdadeiro chamado da minha vida. 💻
+
+Hoje, como desenvolvedor, busco não apenas criar soluções inovadoras, mas também manter o olhar atento ao impacto que a tecnologia tem na vida das pessoas. E, claro, continuo aprendendo e me desafiando a crescer em cada projeto que abraço. 🚀
